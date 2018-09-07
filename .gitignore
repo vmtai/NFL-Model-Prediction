@@ -18,3 +18,8 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+
+# Scripts #
+###########
+merge_master.sh #local script to safely merge master to develop 
